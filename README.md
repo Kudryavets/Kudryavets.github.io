@@ -23,9 +23,13 @@ These optimizations are:
 
 This application shows interactive visualization of climate data. The app allows to trace the evolution of temperatures and temperature deviations over time in all over the world. 
 
-The project is Coursera Functional Programming in Scala Capstone. Thus I was limited to application architecture designed by instructors. UI in Scala.js was also written by them. Fortunataly they did not write the whole thing for me;)
-
-Here you can see how it actually works. (Soon)
+The project is the Coursera Functional Programming in Scala specialization capstone. This time I was very limited to application architecture designed by instructors. UI in Scala.js was also written by them. Fortunataly they did not develop the whole thing for me ;) So you can see how it actually works. (Soon)
 
 
-###
+### TSafer (TypeSafer) NLP tool in R
+[link to code](https://github.com/Kudryavets/typesafer-nlp-r)
+[linc to application](https://kudryavets.shinyapps.io/TSafer/) (Give it time to load please)
+
+This is Natural Language Processing application which tries to predict the next word you want to enter knowing several words you have already entered. You can see a lot of similar applications while using the search or texting sms. This one is the Coursera Data Science specialization capstone. Please feel free to play with it. It uses relatively complex mathematical functions and produces quite amusing results from time to time.
+
+
