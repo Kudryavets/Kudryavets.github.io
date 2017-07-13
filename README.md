@@ -1,5 +1,5 @@
 # Kudryavets Andrey
-[linked-in profile](www.linkedin.com/in/andrey-kudryavets)
+[linked-in profile](https://linkedin.com/in/andrey-kudryavets)
 
 ## Appeal to visitors
 Greetings wanderer! 
