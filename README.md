@@ -1,4 +1,5 @@
 # Kudryavets Andrey
+[linked-in profile](www.linkedin.com/in/andrey-kudryavets)
 
 ## Appeal to visitors
 Greetings wanderer! 
@@ -6,7 +7,7 @@ Greetings wanderer!
 It seems to me that you entered this site with assessment purposes. Hope that this short description of my projects will save you a little time and will help to find relevant information quickly.
 
 
-### TF-IDF implementation using Spark with Scala 
+### TF-IDF implementation using Spark with Scala (2017)
 [link to the code](https://github.com/Kudryavets/tf-idf-spark-scala)
 
 This is implementation of [TF-IDF algorithm](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) with only RDD API. It aims to show several basic optimizations which can be done in the first place. 
@@ -18,7 +19,7 @@ These optimizations are:
 * Kryo serialization is used instead of Java serialization
 
 
-### Interactive heat map app in Scala
+### Interactive heat map app in Scala (2017)
 [link to the code](https://github.com/Kudryavets/interactive-heat-map-app-scala)
 
 This application shows interactive visualization of climate data. The app allows to trace the evolution of temperatures and temperature deviations over time in all over the world. 
@@ -26,7 +27,7 @@ This application shows interactive visualization of climate data. The app allows
 The project is the Coursera Functional Programming in Scala specialization capstone. This time I was very limited to application architecture designed by instructors. UI in Scala.js was also written by them. Fortunataly they did not develop the whole thing for me ;) So you can see how it actually works. (Soon)
 
 
-### TSafer (TypeSafer) NLP tool in R
+### TSafer (TypeSafer) NLP tool in R (2016)
 [link to the code](https://github.com/Kudryavets/typesafer-nlp-r)
 
 [linc to the application](https://kudryavets.shinyapps.io/TSafer/) (Give it time to load please)
