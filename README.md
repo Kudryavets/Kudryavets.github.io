@@ -28,6 +28,7 @@ The project is the Coursera Functional Programming in Scala specialization capst
 
 ### TSafer (TypeSafer) NLP tool in R
 [link to code](https://github.com/Kudryavets/typesafer-nlp-r)
+
 [linc to application](https://kudryavets.shinyapps.io/TSafer/) (Give it time to load please)
 
 This is Natural Language Processing application which tries to predict the next word you want to enter knowing several words you have already entered. You can see a lot of similar applications while using the search or texting sms. 
