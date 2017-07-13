@@ -30,6 +30,8 @@ The project is the Coursera Functional Programming in Scala specialization capst
 [link to code](https://github.com/Kudryavets/typesafer-nlp-r)
 [linc to application](https://kudryavets.shinyapps.io/TSafer/) (Give it time to load please)
 
-This is Natural Language Processing application which tries to predict the next word you want to enter knowing several words you have already entered. You can see a lot of similar applications while using the search or texting sms. This one is the Coursera Data Science specialization capstone. Please feel free to play with it. It uses relatively complex mathematical functions and produces quite amusing results from time to time.
+This is Natural Language Processing application which tries to predict the next word you want to enter knowing several words you have already entered. You can see a lot of similar applications while using the search or texting sms. 
+
+This one is the Coursera Data Science specialization capstone. Please feel free to play with it. It uses relatively complex mathematical functions and produces quite amusing results from time to time.
 
 
