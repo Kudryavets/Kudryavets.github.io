@@ -7,7 +7,7 @@ Greetings wanderer!
 It seems to me that you entered this site with assessment purposes. Hope that this short description of my projects will save you a little time and will help to find relevant information quickly.
 
 
-### Tree Optimization Search in Python
+### Tree Optimization Search in Python (2017)
 [link to the code](https://github.com/Kudryavets/tree-optimization-search-python/)
 
 This is the attempt to solve [optimizing search problem](https://www.hackerrank.com/contests/quora-haqathon/challenges/ontology) in python 
