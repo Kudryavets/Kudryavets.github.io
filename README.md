@@ -7,6 +7,21 @@ Greetings wanderer!
 It seems to me that you entered this site with assessment purposes. Hope that this short description of my projects will save you a little time and will help to find relevant information quickly.
 
 
+### Tree Optimization Search in Python
+[link to the code](https://github.com/Kudryavets/tree-optimization-search-python/)
+
+This is the attempt to solve [optimizing search problem](https://www.hackerrank.com/contests/quora-haqathon/challenges/ontology) in python 
+via trees and recursion. There is a corpus of topics represented hierarchically. Each topic has a number of questions associated with it. In the same time each topic is a generalization of it's children topics and all their questions can be considered as its own questions. The task is to find how many questions among questions of a certain topic match a pattern.
+
+The tested solution is to build a tree of topics with questions tied to nodes. Then traverse a tree recursively to find needed topic
+and recursively count matching questions from this topic and it's children. Trees are implemented in Python without using external libraries. All computations are consecutive.
+
+Results of testing are not the best. Solution works pretty fast on 20000 topics / 20000 questions / 20000 queries. 
+But 100000 topics / 100000 questions / 100000 queries make one wait for near ten seconds on my laptop. I also found out that python is not 
+optimized for tail recursion functions. In several cases of very deep nested trees I have experienced 
+`RecursionError: maximum recursion depth exceeded`. Most of the found advices suggest not to use recursion at all or increase recursion limit which is not working for me.
+
+
 ### TF-IDF implementation using Spark with Scala (2017)
 [link to the code](https://github.com/Kudryavets/tf-idf-spark-scala)
 
