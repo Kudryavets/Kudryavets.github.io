@@ -10,8 +10,7 @@ It seems to me that you entered this site with assessment purposes. Hope that th
 ### Tree Optimization Search in Python (2017)
 [link to the code](https://github.com/Kudryavets/tree-optimization-search-python/)
 
-This is the attempt to solve [optimizing search problem](https://www.hackerrank.com/contests/quora-haqathon/challenges/ontology) in python 
-via trees and recursion. There is a corpus of topics represented hierarchically. Each topic has a number of questions associated with it. In the same time each topic is a generalization of it's children topics and all their questions can be considered as its own questions. The task is to find how many questions among questions of a certain topic match a pattern.
+This is the attempt to solve [optimizing look-up problem](https://www.hackerrank.com/contests/quora-haqathon/challenges/ontology) in python via trees and recursion. There is a corpus of topics represented hierarchically. Each topic has a number of questions associated with it. In the same time each topic is a generalization of it's children topics and all their questions can be considered as its own questions. The task is to find how many questions among questions of a certain topic match a pattern.
 
 The tested solution is to build a tree of topics with questions tied to nodes. Then traverse a tree recursively to find needed topic
 and recursively count matching questions from this topic and it's children. Trees are implemented in Python without using external libraries. All computations are consecutive.
